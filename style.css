@@ -212,7 +212,7 @@ body {
 
 }
 
-    @media (max-width: 768px) { 
+    @media (min-width: 300px) and (max-width: 1100px) { 
     
             .desktop-nav {
                 display: none; /* Скрываем обычное меню */
@@ -281,5 +281,6 @@ body {
 
 
         
+
 
         
