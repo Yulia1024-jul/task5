@@ -278,9 +278,29 @@ body {
             }
 
         }
+@media (max-width: 480px) {
+    .block2 {
+        padding: 0 10px 10px;
+    }
+    
+    .btn {
+        width: 90%; /* Ещё шире кнопка */
+        height: 45px;
+        font-size: 15px;
+    }
+    
+    .image-item img {
+        max-width: 200px;
+    }
+    
+    .image-description {
+        font-size: 16px;
+    }
+}
 
 
         
 
 
         
+
